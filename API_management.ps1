@@ -59,6 +59,6 @@ GET https://management.azure.com/subscriptions/7f1f265d-dc8c-4232-af03-db9ab6f9f
 
 
 curl https://thapi.azure-api.net/api/Products
-curl --header "Ocp-Apim-Subscription-Key: f3927f4f286a4c749f6f29cf12b72690" https://thapi.azure-api.net/api/Products
-curl --header "Ocp-Apim-Subscription-Key: 13f1f1904da44ca59f315ac41e1d2c8e" https://thapi.azure-api.net/api/Products
+curl --header "Ocp-Apim-Subscription-Key: xxxxxxxxxxxxxxxxxxxxxxxxx" https://thapi.azure-api.net/api/Products
+curl --header "Ocp-Apim-Subscription-Key: xxxxxxxxxxxxxxxxxxxxxxxxx" https://thapi.azure-api.net/api/Products
 
